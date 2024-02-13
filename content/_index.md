@@ -22,13 +22,16 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my latest paper on LLMs
-          icon: academicons/arxiv
-          url: https://arxiv.org/abs/2304.01852
-        - text: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
-          url: https://youtube.com
-        - text: Connect with me on LinkedIn
+        - text: Follow PASE on Instagram!
+          icon: brands/instagram
+          url:  https://www.instagram.com/Gator_PASE/
+        - text: Follow PASE on LinkedIn!
           icon: brands/linkedin
-          url: https://linkedin.com
+          url: https://linkedin.com/company/gator-pase
+        - text: Follow PASE on YouTube!
+          icon: brands/youtube
+          url: https://www.youtube.com/@Gator-PASE/
+        - text: Follow PASE on Twitter!
+          icon: brands/twitter
+          url: https://twitter.com/Gator_PASE
 ---
