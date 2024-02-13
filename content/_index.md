@@ -23,7 +23,7 @@ sections:
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
         - text: Become a PASE Gator!
-          icon: 
+          icon: assets/media/icons/qualtrics
           url: https://ufl.qualtrics.com/jfe/form/SV_ewFhF3vrD2qodxQ
         - text: Join PASE on Slack!
           icon: assets/media/icons/slack
