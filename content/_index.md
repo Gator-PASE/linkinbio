@@ -22,6 +22,9 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
+        - text: Check out the PASE website!
+          icon: icon
+          url: https://gator-pase.netlify.app/
         - text: Become a PASE Gator!
           icon: qualtrics
           url: https://ufl.qualtrics.com/jfe/form/SV_ewFhF3vrD2qodxQ
