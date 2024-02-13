@@ -11,11 +11,11 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo link in bio theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    description: 'Links for Policy Advocacy in Science and Engineering (PASE).'
+    twitter: 'Gator_PASE'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,7 +35,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me'
+    notice: '© {year} Policy Advocacy in Science and Engineering'
 
 # Localization
 locale:
