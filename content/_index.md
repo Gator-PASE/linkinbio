@@ -26,22 +26,24 @@ sections:
           icon: 
           url: https://gator-pase.netlify.app/
         - text: Become a PASE Gator!
-          icon: 
+          icon: qualtrics
+          icon_pack: custom
           url: https://ufl.qualtrics.com/jfe/form/SV_ewFhF3vrD2qodxQ
         - text: Join PASE on Slack!
-          icon: 
+          icon: slack
+          icon_pack: custom
           url: https://join.slack.com/t/policyadvocac-blu4799/shared_invite/zt-22ilb83ed-jPSasrd50yH4epvTy8hINA
         - text: Follow PASE on Instagram!
-          icon: 
+          icon: instagram
           url:  https://www.instagram.com/Gator_PASE/
         - text: Follow PASE on LinkedIn!
-          icon: 
+          icon: linkedin
           url: https://linkedin.com/company/gator-pase
         - text: Follow PASE on YouTube!
-          icon: 
+          icon: youtube
           url: https://www.youtube.com/@Gator-PASE/
         - text: Follow PASE on Twitter!
-          icon: 
+          icon: x-twitter
           url: https://twitter.com/Gator_PASE
         - text: Follow PASE on GatorConnect!
           icon: 
