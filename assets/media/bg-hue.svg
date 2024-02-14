@@ -5,17 +5,17 @@
 <rect width="1440" height="600" fill="url(#paint2_radial)"/>
 <defs>
 <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(814 646.211) rotate(-130.014) scale(677.326 1326.89)">
-<stop stop-color="#A8FFE0"/>
+<stop stop-color="#FA4616"/>
 <stop offset="1" stop-color="white" stop-opacity="0"/>
 </radialGradient>
 <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(311.5) rotate(78.4075) scale(676.787 1595.14)">
-<stop stop-color="#9AB8FF"/>
-<stop offset="1" stop-color="#A9FFF0" stop-opacity="0"/>
+<stop stop-color="#0021A5"/>
+<stop offset="1" stop-color="#BBBDC0" stop-opacity="0"/>
 </radialGradient>
 <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(997) rotate(96.7161) scale(521.592 1244.21)">
-<stop stop-color="#F3A8FF"/>
-<stop offset="0.0001" stop-color="#FFB3CA"/>
-<stop offset="1" stop-color="#B9FFC8" stop-opacity="0"/>
+<stop stop-color="#FA4616"/>
+<stop offset="0.0001" stop-color="#0021A5"/>
+<stop offset="1" stop-color="#BBBDC0" stop-opacity="0"/>
 </radialGradient>
 </defs>
 </svg>
