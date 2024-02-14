@@ -43,7 +43,7 @@ sections:
           icon: youtube
           url: https://www.youtube.com/@Gator-PASE/
         - text: Follow PASE on Twitter!
-          icon: x-twitter
+          icon: twitter
           url: https://twitter.com/Gator_PASE
         - text: Follow PASE on GatorConnect!
           icon: 
