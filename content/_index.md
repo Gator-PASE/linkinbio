@@ -23,27 +23,27 @@ sections:
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
         - text: Check out the PASE website!
-          icon: 
+          icon: :crocodile:
           url: https://gator-pase.netlify.app/
         - text: Become a PASE Gator!
-          icon: 
+          icon: :crocodile:
           url: https://ufl.qualtrics.com/jfe/form/SV_ewFhF3vrD2qodxQ
         - text: Join PASE on Slack!
-          icon: 
+          icon: :crocodile:
           url: https://join.slack.com/t/policyadvocac-blu4799/shared_invite/zt-22ilb83ed-jPSasrd50yH4epvTy8hINA
         - text: Follow PASE on Instagram!
-          icon: brands/instagram
+          icon: :crocodile:
           url:  https://www.instagram.com/Gator_PASE/
         - text: Follow PASE on LinkedIn!
-          icon: brands/linkedin
+          icon: :crocodile:
           url: https://linkedin.com/company/gator-pase
         - text: Follow PASE on YouTube!
-          icon: brands/youtube
+          icon: :crocodile:
           url: https://www.youtube.com/@Gator-PASE/
         - text: Follow PASE on Twitter!
-          icon: brands/twitter
+          icon: :crocodile:
           url: https://twitter.com/Gator_PASE
         - text: Follow PASE on GatorConnect!
-          icon: 
+          icon: :crocodile:
           url: https://orgs.studentinvolvement.ufl.edu/Organization/policy-advocacy-in-science-and-engineering
 ---
