@@ -26,11 +26,11 @@ sections:
           icon: 
           url: https://gator-pase.netlify.app/
         - text: Become a PASE Gator!
-          icon: icons/qualtrics
+          icon: assets/media/icons/qualtrics
           icons: custom
           url: https://ufl.qualtrics.com/jfe/form/SV_ewFhF3vrD2qodxQ
         - text: Join PASE on Slack!
-          icon: icons/slack
+          icon: assets/media/icons/slack
           icons: custom
           url: https://join.slack.com/t/policyadvocac-blu4799/shared_invite/zt-22ilb83ed-jPSasrd50yH4epvTy8hINA
         - text: Follow PASE on Instagram!
