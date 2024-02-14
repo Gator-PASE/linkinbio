@@ -23,13 +23,13 @@ sections:
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
         - text: Check out the PASE website!
-          icon: icon
+          icon: 
           url: https://gator-pase.netlify.app/
         - text: Become a PASE Gator!
-          icon: qualtrics
+          icon: 
           url: https://ufl.qualtrics.com/jfe/form/SV_ewFhF3vrD2qodxQ
         - text: Join PASE on Slack!
-          icon: slack
+          icon: 
           url: https://join.slack.com/t/policyadvocac-blu4799/shared_invite/zt-22ilb83ed-jPSasrd50yH4epvTy8hINA
         - text: Follow PASE on Instagram!
           icon: brands/instagram
