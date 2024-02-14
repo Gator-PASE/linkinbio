@@ -23,27 +23,27 @@ sections:
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
         - text: Check out the PASE website!
-          icon: 🐊
+          icon: 
           url: https://gator-pase.netlify.app/
         - text: Become a PASE Gator!
-          icon: 🐊
+          icon: 
           url: https://ufl.qualtrics.com/jfe/form/SV_ewFhF3vrD2qodxQ
         - text: Join PASE on Slack!
-          icon: 🐊
+          icon: 
           url: https://join.slack.com/t/policyadvocac-blu4799/shared_invite/zt-22ilb83ed-jPSasrd50yH4epvTy8hINA
         - text: Follow PASE on Instagram!
-          icon: 🐊
+          icon: 
           url:  https://www.instagram.com/Gator_PASE/
         - text: Follow PASE on LinkedIn!
-          icon: 🐊
+          icon: 
           url: https://linkedin.com/company/gator-pase
         - text: Follow PASE on YouTube!
-          icon: 🐊
+          icon: 
           url: https://www.youtube.com/@Gator-PASE/
         - text: Follow PASE on Twitter!
-          icon: 🐊
+          icon: 
           url: https://twitter.com/Gator_PASE
         - text: Follow PASE on GatorConnect!
-          icon: 🐊
+          icon: 
           url: https://orgs.studentinvolvement.ufl.edu/Organization/policy-advocacy-in-science-and-engineering
 ---
