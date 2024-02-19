@@ -28,24 +28,24 @@ sections:
         - text: Become a PASE Gator!
           icon: qualtrics.svg
           icons: custom
-          url: https://ufl.qualtrics.com/jfe/form/SV_ewFhF3vrD2qodxQ
+          url:  https://ufl.qualtrics.com/jfe/form/SV_ewFhF3vrD2qodxQ
         - text: Join PASE on Slack!
           icon: slack.svg
           icons: custom
-          url: https://join.slack.com/t/policyadvocac-blu4799/shared_invite/zt-22ilb83ed-jPSasrd50yH4epvTy8hINA
+          url:  https://join.slack.com/t/policyadvocac-blu4799/shared_invite/zt-2cyk5p2o5-iK2ORnoLeuh4f5xGhX8i1g
         - text: Follow PASE on Instagram!
           icon: brands/instagram
           url:  https://www.instagram.com/Gator_PASE/
         - text: Follow PASE on LinkedIn!
           icon: brands/linkedin
-          url: https://linkedin.com/company/gator-pase
+          url:  https://linkedin.com/company/gator-pase
         - text: Follow PASE on YouTube!
           icon: brands/youtube
-          url: https://www.youtube.com/@Gator-PASE/
+          url:  https://www.youtube.com/@Gator-PASE/
         - text: Follow PASE on Twitter!
           icon: brands/twitter
-          url: https://twitter.com/Gator_PASE
+          url:  https://twitter.com/Gator_PASE
         - text: Follow PASE on GatorConnect!
           icon: 
-          url: https://orgs.studentinvolvement.ufl.edu/Organization/policy-advocacy-in-science-and-engineering
+          url:  https://orgs.studentinvolvement.ufl.edu/Organization/policy-advocacy-in-science-and-engineering
 ---
