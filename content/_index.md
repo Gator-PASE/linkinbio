@@ -23,7 +23,7 @@ sections:
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
         - text: Check out the PASE website!
-          icon: 
+          icon: "custom/percy"
           url: https://gator-pase.netlify.app/
         - text: Become a PASE Gator!
           icon: "custom/qualtrics"
