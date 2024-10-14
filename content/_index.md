@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'LinkInBio'
 date: 2024-10-12
 type: landing
 
