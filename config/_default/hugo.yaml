@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: PASE Links # Website name
+title: Policy Advocacy in Science and Engineering # Website name
 baseURL: 'https://gator-pase-links.netlify.app' # Website URL
 
 ############################
