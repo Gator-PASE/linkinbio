@@ -15,8 +15,10 @@ sections:
       # The user's folder name in content/authors/
       username: admin
     design:
+      name:
+        style: 'color: white; text-align: center;'
       biography:
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'color: white; text-align: justify; font-size: 0.8em;'
   - block: cta-button-list
     content:
       # Need a custom icon?
