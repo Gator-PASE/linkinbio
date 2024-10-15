@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Policy Advocacy in Science and Engineering 
+title: Policy Advocacy in Science and Engineering
 
 # Name pronunciation (optional)
 name_pronunciation:
