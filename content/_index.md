@@ -15,7 +15,7 @@ sections:
       # The user's folder name in content/authors/
       username: admin
     design:
-      name:
+      title:
         style: 'color: white; text-align: center;'
       biography:
         style: 'color: white; text-align: justify; font-size: 0.8em;'
