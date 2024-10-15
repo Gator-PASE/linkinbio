@@ -4,14 +4,9 @@ date: 2024-10-12
 type: landing
 
 design:
-  background:
-    # Choose colors such as from https://html-color-codes.info
-    gradient_start: '#ff6a00'
-    gradient_end: '#012f7b'
-    # The gradient angle from 0-360 degrees
-    gradient_angle: 
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    # text_color_light: true
+  background: #ff6a00 # Fallback for old browsers
+  background: -webkit-linear-gradient(undefineddeg, rgb(255, 106, 0) 1%, rgb(1, 47, 123) 90%) # Chrome 10-25, Safari 5.1-6
+  background: linear-gradient(undefineddeg, rgb(255, 106, 0) 1%, rgb(1, 47, 123) 90%)
     # image:
       # Add your image background to `assets/media/`.
       # filename: bg-hue.svg
