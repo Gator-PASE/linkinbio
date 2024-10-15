@@ -4,12 +4,10 @@ date: 2024-10-12
 type: landing
 
 design:
-  background: #ff6a00 # Fallback for old browsers
-  background: -webkit-linear-gradient(undefineddeg, rgb(255, 106, 0) 1%, rgb(1, 47, 123) 90%) # Chrome 10-25, Safari 5.1-6
-  background: linear-gradient(undefineddeg, rgb(255, 106, 0) 1%, rgb(1, 47, 123) 90%)
-    # image:
+  background:
+    image:
       # Add your image background to `assets/media/`.
-      # filename: bg-hue.svg
+      filename: bg-hue.svg
 
 sections:
   - block: resume-biography
