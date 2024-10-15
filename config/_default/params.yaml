@@ -13,8 +13,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'Links for Policy Advocacy in Science and Engineering (PASE).'
+    org_name: 'Policy Advocacy in Science and Engineering'
+    description: 'LinkInBio for Policy Advocacy in Science and Engineering (PASE).'
     twitter: 'Gator_PASE'
   analytics:
     google_analytics: ''
