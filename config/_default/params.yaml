@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  theme: light
+  theme: dark
   color: green
 
 # SEO
