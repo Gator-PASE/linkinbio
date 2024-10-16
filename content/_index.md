@@ -16,13 +16,13 @@ sections:
       username: admin
     design:
       biography:
-        # style: 'text-align: justify; font-size: 0.8em;'
+        style: 'text-align: justify;'
   - block: cta-button-list
     content:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Check out the PASE website!
+        - text: Check out the PASE Website!
           icon: "custom/percy"
           url: https://gator-pase.netlify.app/
         - text: Become a PASE Gator!
