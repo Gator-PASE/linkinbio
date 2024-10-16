@@ -17,7 +17,7 @@ sections:
       username: admin
     design:
       biography:
-        style: 'text-align: justify;'
+        style: 'text-align: justify; font-size: 0.8em'
   - block: cta-button-list
     content:
       # Need a custom icon?
