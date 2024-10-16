@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Policy Advocacy in Science and Engineering
+  style: 'color: white; text-align: center;'
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -18,10 +19,12 @@ superuser: true
 
 # Role/position/tagline
 role: Student Organization
+  style: 'color: white; text-align: center;'
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: J. Crayton Pruitt Family Department of Biomedical Engineering at the University of Florida
+    style: 'color: white; text-align: center;'
     url: https://www.bme.ufl.edu/
 
 ---
