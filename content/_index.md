@@ -16,7 +16,7 @@ sections:
       username: admin
     design:
       biography:
-        style: 'text-align: justify; font-size: 0.8em;'
+        # style: 'text-align: justify; font-size: 0.8em;'
         spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
           padding: ['20px', '0', '20px', '0']
