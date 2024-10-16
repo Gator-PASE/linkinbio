@@ -18,9 +18,6 @@ sections:
       biography:
         # style: 'text-align: justify; font-size: 0.8em;'
   - block: cta-button-list
-    design:
-      spacing:
-        padding: ['20px', '0', '20px', '0']
     content:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
