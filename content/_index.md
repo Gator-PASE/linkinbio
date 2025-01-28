@@ -41,9 +41,9 @@ sections:
         - text: Follow PASE on YouTube!
           icon: brands/youtube
           url:  https://www.youtube.com/@Gator-PASE/
-        - text: Follow PASE on Twitter!
-          icon: brands/twitter
-          url:  https://twitter.com/Gator_PASE
+        - text: Follow PASE on BlueSky!
+          icon: brands/bsky
+          url:  https://bsky.app/profile/gator-pase.bsky.social
         - text: Follow PASE on GatorConnect!
           icon: 
           url:  https://orgs.studentinvolvement.ufl.edu/Organization/policy-advocacy-in-science-and-engineering
