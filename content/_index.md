@@ -42,7 +42,7 @@ sections:
           icon: brands/youtube
           url:  https://www.youtube.com/@Gator-PASE/
         - text: Follow PASE on BlueSky!
-          icon: brands/bsky
+          icon: brands/bluesky
           url:  https://bsky.app/profile/gator-pase.bsky.social
         - text: Follow PASE on GatorConnect!
           icon: 
