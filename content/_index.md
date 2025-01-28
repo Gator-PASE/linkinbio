@@ -32,6 +32,9 @@ sections:
         - text: Join PASE on Slack!
           icon: "custom/slack"
           url:  https://join.slack.com/t/policyadvocac-blu4799/shared_invite/zt-2sqgon4ow-O0msj48Ujyd__QtJgzO8JA
+        - text: Follow PASE on BlueSky!
+          icon: brands/bluesky
+          url:  https://bsky.app/profile/gator-pase.bsky.social
         - text: Follow PASE on Instagram!
           icon: brands/instagram
           url:  https://www.instagram.com/Gator_PASE/
@@ -41,9 +44,6 @@ sections:
         - text: Follow PASE on YouTube!
           icon: brands/youtube
           url:  https://www.youtube.com/@Gator-PASE/
-        - text: Follow PASE on BlueSky!
-          icon: brands/bluesky
-          url:  https://bsky.app/profile/gator-pase.bsky.social
         - text: Follow PASE on GatorConnect!
           icon: 
           url:  https://orgs.studentinvolvement.ufl.edu/Organization/policy-advocacy-in-science-and-engineering
