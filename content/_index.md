@@ -25,7 +25,7 @@ sections:
       buttons:
         - text: Check out the PASE Website!
           icon: "custom/percy"
-          url: https://gator-pase.netlify.app/
+          url: https://gator-pase.github.io/
         - text: Become a PASE Gator!
           icon: "custom/qualtrics"
           url:  https://ufl.qualtrics.com/jfe/form/SV_ewFhF3vrD2qodxQ
