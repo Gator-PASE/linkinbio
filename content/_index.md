@@ -26,9 +26,6 @@ sections:
         - text: Check out the PASE Website!
           icon: "custom/percy"
           url: https://gator-pase.github.io/
-        - text: Become a PASE Gator!
-          icon: "custom/qualtrics"
-          url:  https://ufl.qualtrics.com/jfe/form/SV_ewFhF3vrD2qodxQ
         - text: Join PASE on Slack!
           icon: "custom/slack"
           url:  https://join.slack.com/t/policyadvocac-blu4799/shared_invite/zt-2sqgon4ow-O0msj48Ujyd__QtJgzO8JA
